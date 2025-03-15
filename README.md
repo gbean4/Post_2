@@ -6,7 +6,7 @@ This repository contains an analysis of economic factors and their correlation w
 ## Repository Contents
 - **`fast_food_analysis.csv`**: The compiled dataset containing economic indicators and fast food prices for all 50 states.
 - **`my_datatable.ipynb`**: A Jupyter Notebook with the code used to compile individual dataframes into the final dataset. Also used to perform the correlation analysis and generates a heatmap to visualize relationships between different factors.
--**`correlation_between_economic_factors_and_restaurant_prices.png.`**: The generated heatmap showing correlation values between economic indicators and fast food prices.
+- **`correlation_between_economic_factors_and_restaurant_prices.png.`**: The generated heatmap showing correlation values between economic indicators and fast food prices.
 
 ## Dataset Description
 The dataset includes the following variables:
